@@ -1,0 +1,2 @@
+# magang
+Sistem Informasi Pegawai
